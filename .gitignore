@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (jika ada eksperimen lanjutan yang menyimpan model)
+*.pkl
+*.h5
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# Git workflow guides (not part of the project)
+git/
+
+# Claude Code
+.claude/
