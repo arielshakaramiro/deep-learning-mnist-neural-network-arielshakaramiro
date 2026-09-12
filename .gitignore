@@ -20,5 +20,3 @@ Thumbs.db
 # Git workflow guides (not part of the project)
 git/
 
-# Claude Code
-.claude/
